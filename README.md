@@ -104,6 +104,6 @@ Key Features:
 
 ## AUTHOR
 
-Your Name
+Mikaeil Baroutchi
 GitHub   : https://github.com/mikaeilbarout
 LinkedIn : https://www.linkedin.com/in/mikaeil-baroutchi/
